@@ -22,7 +22,7 @@ I am a developer focused on **High-Performance Computing (HPC)** and systems pro
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shockp&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Shockp's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shockp&show_icons=true&theme=tokyonight&hide_border=true" alt="Shockp's GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shockp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
