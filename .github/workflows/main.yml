@@ -25,9 +25,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: Shockp
+          user: ShockP
           template: classic
-          base: activity
+          base: activity, metadata
           config_timezone: Europe/Madrid
           plugin_habits: yes
           plugin_habits_charts_type: classic
@@ -41,7 +41,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_ignored: TypeScript, JavaScript, HTML, CSS
+          plugin_languages_ignored: HTML, TypeScript, CSS, PHP, JavaScript
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
