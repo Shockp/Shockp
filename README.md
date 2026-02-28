@@ -11,8 +11,9 @@ I am a developer focused on **High-Performance Computing (HPC)** and systems pro
 
 ### 🛠 Languages & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++17%2F20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++17/20" />
+  <img src="https://img.shields.io/badge/CUDA-76B900.svg?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/OpenMP-31409F.svg?style=for-the-badge&logo=openmp&logoColor=white" alt="OpenMP" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/CMake-%23064F8C.svg?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
